@@ -1,0 +1,3 @@
+[submodule "dist/shared-components"]
+	path = dist/shared-components
+	url = https://github.com/IIIJIaHr/shared-components.git
